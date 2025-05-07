@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\bin\Debug\net9.0\Pratik---For-rnekleri.exe
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\bin\Debug\net9.0\Pratik---For-rnekleri.deps.json
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\bin\Debug\net9.0\Pratik---For-rnekleri.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\bin\Debug\net9.0\Pratik---For-rnekleri.dll
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\bin\Debug\net9.0\Pratik---For-rnekleri.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.dll
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\refint\Pratik---For-rnekleri.dll
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\Pratik---For-rnekleri.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Pratik---For-rnekleri\obj\Debug\net9.0\ref\Pratik---For-rnekleri.dll
